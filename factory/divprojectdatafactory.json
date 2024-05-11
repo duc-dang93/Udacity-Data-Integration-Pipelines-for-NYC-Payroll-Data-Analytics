@@ -1,0 +1,9 @@
+{
+	"name": "divprojectdatafactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0324c2a5-1bd3-4107-a94d-20369caa0b61",
+		"tenantId": "98857b96-3419-419e-b84d-b4394d48f15f"
+	}
+}
